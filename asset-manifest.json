@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "//ardhan-p.github.io/wareeyes-reactjs-frontend/static/css/main.13cb9577.css",
-    "main.js": "//ardhan-p.github.io/wareeyes-reactjs-frontend/static/js/main.51a0798a.js",
-    "static/media/login_img.png": "//ardhan-p.github.io/wareeyes-reactjs-frontend/static/media/login_img.78b9cb378f721c73016b.png",
-    "index.html": "//ardhan-p.github.io/wareeyes-reactjs-frontend/index.html",
-    "main.13cb9577.css.map": "//ardhan-p.github.io/wareeyes-reactjs-frontend/static/css/main.13cb9577.css.map",
-    "main.51a0798a.js.map": "//ardhan-p.github.io/wareeyes-reactjs-frontend/static/js/main.51a0798a.js.map"
+    "main.css": "/wareeyes-reactjs-frontend/static/css/main.13cb9577.css",
+    "main.js": "/wareeyes-reactjs-frontend/static/js/main.37ba7d82.js",
+    "static/media/login_img.png": "/wareeyes-reactjs-frontend/static/media/login_img.78b9cb378f721c73016b.png",
+    "index.html": "/wareeyes-reactjs-frontend/index.html",
+    "main.13cb9577.css.map": "/wareeyes-reactjs-frontend/static/css/main.13cb9577.css.map",
+    "main.37ba7d82.js.map": "/wareeyes-reactjs-frontend/static/js/main.37ba7d82.js.map"
   },
   "entrypoints": [
     "static/css/main.13cb9577.css",
-    "static/js/main.51a0798a.js"
+    "static/js/main.37ba7d82.js"
   ]
 }
