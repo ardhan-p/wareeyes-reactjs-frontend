@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wareeyes-reactjs-frontend/static/css/main.13cb9577.css",
-    "main.js": "/wareeyes-reactjs-frontend/static/js/main.5e452469.js",
+    "main.js": "/wareeyes-reactjs-frontend/static/js/main.e38a6cd2.js",
     "static/media/login_img.png": "/wareeyes-reactjs-frontend/static/media/login_img.78b9cb378f721c73016b.png",
     "index.html": "/wareeyes-reactjs-frontend/index.html",
     "main.13cb9577.css.map": "/wareeyes-reactjs-frontend/static/css/main.13cb9577.css.map",
-    "main.5e452469.js.map": "/wareeyes-reactjs-frontend/static/js/main.5e452469.js.map"
+    "main.e38a6cd2.js.map": "/wareeyes-reactjs-frontend/static/js/main.e38a6cd2.js.map"
   },
   "entrypoints": [
     "static/css/main.13cb9577.css",
-    "static/js/main.5e452469.js"
+    "static/js/main.e38a6cd2.js"
   ]
 }
